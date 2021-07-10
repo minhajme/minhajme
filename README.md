@@ -8,7 +8,7 @@
 ## I'm a Software Engineer!!
 
 - 🔭 I just launched an open source software for freight forwarders: [Freight Documents Generator][freightforward_repo]!
-- 🌱 I’m currently learning Java, Kotlin(Android) and Artificial Intelligence fundamentals
+- 🌱 I’m currently learning Java, Kotlin(Android) and [Artificial Intelligence Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
 - ⚡ Fun fact: I have a bachelor degree in Mechanical Engineering from [BUET](https://www.buet.ac.bd/web/#/). Besides Software Development, I love Mechanics of Materials, Heat Transfer, Aerodynamics and Control Systems Design(So that makes me a Mechanical Engineer too)
 
 ### Connect with me:
