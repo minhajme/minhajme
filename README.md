@@ -1,13 +1,14 @@
-بسم الله الرحمن الرحيم
-### Hi there, I'm Minhajul Anwar
+<p align="center"> بسم الله الرحمن الرحيم </p>
+
+## Hi there, I'm Minhajul Anwar
 
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
 [![Twitter Follow](https://img.shields.io/badge/Minhajul%20Anwar-blue?logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMinhajulAnwar&screen_name=MinhajulAnwar)
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
-## I'm a Software Engineer!!
+## I'm a Software Engineer
 
-- 🔭 I just launched an open source software for freight forwarders: [Freight Documents Generator][freightforward_repo]!
+- 🔭 I just launched an open source software for freight forwarders: [Freight Documents Generator][freightforward_repo]
 - 🌱 I’m currently learning Java, Kotlin(Android) and [Artificial Intelligence Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
 - ⚡ Fun fact: I have a bachelor's degree in Mechanical Engineering from [BUET](https://www.buet.ac.bd/web/#/). Besides Software Development, I love Mechanics of Materials, Thermal Systems, Aerodynamics and Control Systems Design(So that makes me a Mechanical Engineer too!)
 
