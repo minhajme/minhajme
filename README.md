@@ -3,7 +3,7 @@
 ## Hi there, I'm Minhajul Anwar
 
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
-[![Twitter Follow](https://img.shields.io/badge/Minhajul%20Anwar-blue?logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMinhajulAnwar&screen_name=MinhajulAnwar)
+[![Twitter Follow](https://img.shields.io/badge/Minhajul%20Anwar-blue?logo=twitter)][twitter]
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
 ## I'm a Software Engineer
@@ -48,7 +48,7 @@
 [github_repos]: https://github.com/minhajme?tab=repositories
 [freightforward_repo]: https://github.com/minhajme/freightforward
 [facebook]: https://twitter.com/minhajul.anwar.bd
-[twitter]: https://twitter.com/minhajmebd
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMinhajulAnwar&screen_name=MinhajulAnwar
 [linkedin]: https://www.linkedin.com/in/minhajme/
 [youtube]: https://www.youtube.com/channel/UCLwOk0QXDgPk1_TWx63KeAw
 [instagram]: https://www.instagram.com/resgefclick
