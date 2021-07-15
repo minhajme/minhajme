@@ -1,4 +1,4 @@
-<p align="center"> بسم الله الرحمن الرحيم </p>
+<!--<p align="center"> بسم الله الرحمن الرحيم </p>-->
 
 ## Hi there, I'm Minhajul Anwar
 
