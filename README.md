@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/badge/Minhajul%20Anwar-blue?logo=twitter)][twitter]
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
-## I'm a Software Engineer from Dhaka, Bangladesh.
+## A certified Mechanical Engineer from Dhaka, Bangladesh who is also a Software Engineer, self taught.
 
 - 🖥️ Started using Linux(Ubuntu-6.06) in 2007 when I was a fresher at BUET. Got into coding in 2011 with PHP for web and Python for problem solving.
 - 🎖️ Strong work experience in: Python, Django, JavaScript, ReactJS, NodeJS.
