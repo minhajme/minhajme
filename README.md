@@ -3,10 +3,10 @@
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
-## A Mechanical Engineering graduate from Dhaka, Bangladesh who is also a Software Engineer, self taught.
+## Self taught Software Engineer, with a Bachelor's degree in Mechanical Engineering.
 
 ### Check my blog:
-<br>[https://minhajme.github.io/blog/](https://minhajme.github.io/blog/)
+[https://minhajme.github.io/blog/](https://minhajme.github.io/blog/)
 
 ### Connect with me:
 
@@ -17,7 +17,6 @@
 [<img align="left" alt="Minhajul Anwar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Resgef Labs | Founder" width="22px" src="https://img.icons8.com/pastel-glyph/2x/website.png" />][website]
 
-<br />
 
 ### Programming Languages, Tools and Related:
 - JavaScript
@@ -28,12 +27,13 @@
 
 <br />
 
-### 📕 Latest Blog Posts
+### Some Notable Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [DOKKU up and running with Django projects, postgresql, Celery, ssl, syslog for logging](https://medium.com/@minhajme/dokku-up-and-running-with-django-projects-postgresql-database-edf03da3f4a8)
 <!-- BLOG-POST-LIST:END -->
 
+[blog](https://minhajme.github.io/blog/)
 [website]: https://resgef.com
 [github_repos]: https://github.com/minhajme?tab=repositories
 [freightforward_repo]: https://github.com/minhajme/freightforward
