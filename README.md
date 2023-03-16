@@ -1,22 +1,11 @@
 <!--<p align="center"> بسم الله الرحمن الرحيم </p>-->
 
-## Hi there, I'm Minhajul Anwar
-
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
-[![Twitter Follow](https://img.shields.io/badge/Minhajul%20Anwar-blue?logo=twitter)][twitter]
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
-## A certified Mechanical Engineer from Dhaka, Bangladesh who is also a Software Engineer, self taught.
+## A Mechanical Engineering graduate from Dhaka, Bangladesh who is also a Software Engineer, self taught.
 
-- 🖥️ Started using Linux(Ubuntu-6.06) in 2007 when I was a fresher at BUET. Got into coding in 2011 with PHP for web and Python for problem solving.
-- 🎖️ Strong work experience in: Python, Django, JavaScript, ReactJS, NodeJS.
-- 🚀 Just launched an open source software for freight forwarders: [Freight Documents Generator](https://freightforward.github.io)
-- 🌱 Gradually leaning on Java, Kotlin(Android) and [Artificial Intelligence Fundamentals](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
-- 🎯  2021 Goal: work more on open source projects. Give back to the community.
-- ⚡ Fun fact: I have a bachelor's degree in Mechanical Engineering from [BUET](https://www.buet.ac.bd/web/#/). Besides Software Development, I love Mechanical Engineering stuffs(like hobby), e.g., Mechanics, Solid Systems, Thermal Systems, Control Systems, Aerodynamics. (Does that make me a Mechanical Engineer also?)
-
-### Check my gh-pages blog:
-I write on technical stuffs, codes, snippets, review, tutorials etc.
+### Check my blog:
 <br>[https://minhajme.github.io/blog/](https://minhajme.github.io/blog/)
 
 ### Connect with me:
@@ -64,18 +53,3 @@ I write on technical stuffs, codes, snippets, review, tutorials etc.
 [quora]: https://www.quora.com/profile/Minhajul-Anwar
 [medium]: https://medium.com/@minhajme
 [researchgate]: https://www.researchgate.net/profile/Minhajul-Anwar-2
-
-<!--
-**minhajme/minhajme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
