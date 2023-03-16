@@ -23,12 +23,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
-- [+8801716734974](tel:8801716734974)
-- [whatsapp](https://wa.me/8801716734974)
-- [telegram](tel:8801716734974)
-- [slack](https://resgef.slack.com)
-- [mail me](mailto:minhaj.me.bd@gmail.com)
 - [blog](https://minhajme.github.io/blog/)
+- [+8801716734974](tel:8801716734974)
+- [mail me](mailto:minhaj.me.bd@gmail.com)
+- [slack](https://resgef.slack.com)
+- [whatsapp](https://wa.me/8801716734974)
+- [telegram](https://t.me/minhajme)
 - [website](https://resgef.com)
 - [github_repos](https://github.com/minhajme?tab=repositories)
 - [freightforward_repo](https://github.com/minhajme/freightforward)
