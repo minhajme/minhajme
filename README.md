@@ -32,19 +32,19 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
-- [tel](tel: +8801716734974)
+- +8801716734974
 - [mail me](mailto:minhaj.me.bd@gmail.com)
 - [blog](https://minhajme.github.io/blog/)
-- [website]: https://resgef.com
-- [github_repos]: https://github.com/minhajme?tab=repositories
-- [freightforward_repo]: https://github.com/minhajme/freightforward
-- [facebook]: https://facebook.com/minhajul.anwar.bd
-- [facebook-resgefclick]: https://facebook.com/resgefclick
-- [facebook-resgef]: https://facebook.com/resgef
-- [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMinhajulAnwar&screen_name=MinhajulAnwar
-- [linkedin]: https://www.linkedin.com/in/minhajme/
-- [youtube]: https://www.youtube.com/channel/UCLwOk0QXDgPk1_TWx63KeAw
-- [instagram]: https://www.instagram.com/resgefclick
-- [quora]: https://www.quora.com/profile/Minhajul-Anwar
-- [medium]: https://medium.com/@minhajme
-- [researchgate]: https://www.researchgate.net/profile/Minhajul-Anwar-2
+- [website](https://resgef.com)
+- [github_repos](https://github.com/minhajme?tab=repositories)
+- [freightforward_repo](https://github.com/minhajme/freightforward)
+- [facebook](https://facebook.com/minhajul.anwar.bd)
+- [facebook-resgefclick](https://facebook.com/resgefclick)
+- [facebook-resgef](https://facebook.com/resgef)
+- [twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMinhajulAnwar&screen_name=MinhajulAnwar)
+- [linkedin](https://www.linkedin.com/in/minhajme/)
+- [youtube](https://www.youtube.com/channel/UCLwOk0QXDgPk1_TWx63KeAw)
+- [instagram](https://www.instagram.com/resgefclick)
+- [quora](https://www.quora.com/profile/Minhajul-Anwar)
+- [medium](https://medium.com/@minhajme)
+- [researchgate](https://www.researchgate.net/profile/Minhajul-Anwar-2)
