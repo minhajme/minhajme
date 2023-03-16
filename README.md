@@ -8,21 +8,12 @@
 ### Check my blog:
 [https://minhajme.github.io/blog/](https://minhajme.github.io/blog/)
 
-### Connect with me:
-
-[<img align="left" alt="Minhajul Anwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Minhajul Anwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Minhajul Anwar | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
-[<img align="left" alt="Minhajul Anwar | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Minhajul Anwar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Resgef Labs | Founder" width="22px" src="https://img.icons8.com/pastel-glyph/2x/website.png" />][website]
-
-
-### Programming Languages, Tools and Related:
+### Technology Stack:
 - JavaScript
 - NodeJS
 - ReactJS
 - Python
+- Asterisk
 - AI
 
 ### Some Notable Blog Posts
@@ -33,6 +24,8 @@
 
 ### Connect With Me
 - +8801716734974
+- [whatsapp:+8801716734974](https://wa.me/8801716734974)
+- [slack](https://resgef.slack.com)
 - [mail me](mailto:minhaj.me.bd@gmail.com)
 - [blog](https://minhajme.github.io/blog/)
 - [website](https://resgef.com)
