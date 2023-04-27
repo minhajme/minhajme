@@ -24,7 +24,7 @@
 
 ### Connect With Me
 - [blog](https://minhajme.github.io/blog/)
-- [+8801716734974](tel:8801716734974)
+- [+8801716734974](tel:+8801716734974)
 - [mail me](mailto:minhaj.me.bd@gmail.com)
 - [slack](https://resgef.slack.com)
 - [whatsapp](https://wa.me/8801716734974)
