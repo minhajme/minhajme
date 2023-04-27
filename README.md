@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
-## Self taught Software Engineer, with a Bachelor's degree in Mechanical Engineering.
+## Software Engineer, for 8+ Years. With a Bachelor's Degree in Mechanical Engineering.
 
 ### Check my blog:
 [https://minhajme.github.io/blog/](https://minhajme.github.io/blog/)
