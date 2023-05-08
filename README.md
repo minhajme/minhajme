@@ -3,24 +3,89 @@
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
-## Software Engineer, for 8+ Years. With a Bachelor's Degree in Mechanical Engineering.
+# **Minhajul Anwar**
 
-### Check my blog:
-[https://minhajme.github.io/blog/](https://minhajme.github.io/blog/)
+_Backend, DevOps_
 
-### Technology Stack:
-- JavaScript
-- NodeJS
-- ReactJS
-- Python
-- Asterisk
-- AI
+_Python/JS/Golang/Node/Express/React/Django/Linux/Debian/RPM_
 
-### Some Notable Blog Posts
+_3+ Years Full-Time, 8+ Years Overall_
 
-<!-- BLOG-POST-LIST:START -->
-- [DOKKU up and running with Django projects, postgresql, Celery, ssl, syslog for logging](https://medium.com/@minhajme/dokku-up-and-running-with-django-projects-postgresql-database-edf03da3f4a8)
-<!-- BLOG-POST-LIST:END -->
+[[Blog]](https://minhajme.github.io/blog)[[LinkedIn]](https://www.linkedin.com/in/minhajulanwar)[[Twitter]](https://twitter.com/MinhajulAnwar)[[Facebook]](https://web.facebook.com/minhajul.anwar.me)
+
+Email: [minhaj.me.bd@gmail.com](mailto:minhaj.me.bd@gmail.com)
+
+Phone: [+8801716734974](tel:+8801716734974)
+
+Github: [https://github.com/minhajme](https://github.com/minhajme)
+
+Address:
+
+Chattogram, Bangladesh: 57/3/C, DC Road, Chawkbazar.
+
+Dhaka, Bangladesh: H-05, Road 2, Block B, Aftabnagar.
+
+**Activities and Experiences:**
+
+- _(2023) Framework / REST API Builder:_ JavaScript/ **ES6** (NodeJS-16-LTS) base, with design pattern enforced. Simplicity, readability, maintainability focused. Implements Provider pattern with request and response hooks, with helper functions coupled view. **Redis** and Excel API for data storage and download. Includes token bucket algorithm implemented APIrate limiting, **ReactJS** components like MaterialUI mui-datagrid, SheetJS. Includes a test application that uses financials API passthrough relay. JS **Async** API utilized. **Unit test** ed with its own testing library and PlayWright (node), a **headless** browser like Selenium. Deploy planned with **Docker**. Redux for next version state management and **TypeScript** ports planned. [[gh]](https://github.com/minhajme/api)
+
+- _(2022) Technical Lead of an Online Payment Gateway:_ Being a team player at ShurjoPay, an online **payment gateway engine** , contributed to all phases of the development lifecycle. Worked towards turning a mediocre payment engine into a highly available, fault-tolerant, observable, performant, secure, and scalable payment gateway as shurjoPay had an early PSO license. Worked on banks and MFS (BKash, Nagad) channels API gateway for financial transactionsinbound flow and customer settlements. Supervised engine and customer portal merges (Git) and binded team activities with **Jira** loop. Enforced documentation and maintainability best practices for key projects. Managed Linux infrastructures by co-working with **SysAdmin**. POC with the biz-dev team in the customer deliverables. Developed the JavaScript/ **ES6** plugin for **NodeJS** (16-LTS) deployments. Co-maintained Python/ **Django** and vanilla PHP plugins along with Lumen ( **Laravel9** ) based admin portal; and some Python/ **FastAPI** codes for the Adorsho Pranisheba. Worked with **AWS** (trial-course), planned **Docker** ized microservices/container orchestration and **Jenkins** for CI/CD (trial). Made a plan for some microservices deployment swarm with Kubernetes. Formed a dedicated JavaScript team for a `next core` shift focusing on the **MERN** stack (MongoDB, ExpressJS, ReactJS, NodeJS). [[gh(shared dev)]](https://github.com/smukhidev?tab=repositories)[[gh]](https://github.com/minhajme/publicarchive/tree/master/shurjopaynode)
+
+- _(2018-2021) Freight forwarding process automation:_ app with Python/ **Django** , **ReactJS** , **PostgreSQL** database. Deployment was a Git based simpler workflow. Able to automate BL(Bill of Lading), AWB(AirWayBill), Delivery Order, Shipping Advice, Cargo Manifest, CFS Report, Job Costing. Navana Logistics Limited was a development partner. Planned for a **NoSQL** approach with **ElasticSearch** based caching system. Tried **GraphQL** implementation possibility for a small time span. Had a plan for building/deploying/managing AWS or GCP at an enterprise-level, time constraint and project swatching caused deferring. [[gh]](https://github.com/minhajme/freightforward)
+
+- _(2018) IVR:_ Management and call forwarding portal for a healthcare call-center. Written with Python/ **Django** and JQuery with **PostgreSQL** database. Voice transmission done with **Twilio** API. Wrote job scheduler with **Celery** , **Redis**. Tested with **Selenium**. Deployment with DOKKU, a **Docker** wrapper for container orchestration. Had visions for microservices swarm with Kubernetes. Also planned to integrate with **Asterisk** and a job server with **Golang** , and some modules **NodeJS** porting if resources were available. Also dealt with excellent customer service attitude for the Investor (Adam Awany), communication skills (written and verbal), and interpersonal skills. Had understanding and practical experience in software development life cycles ( **SDLC** , both Agile and Scrum) due to working as part of a distributed team. The app also includes a stress testing library with the remote api and mass call firing simulation. This was done by writing virtual call forwarded users and stripped response only voice API servers for Tropo and Twilio. This resulted in experience with containers, networking, database, message queueing ( **RabbitMQ** ), load balancing (Nginx), distributed systems (pg nodes), auto-scaling, SSL protocols, data encryption, XSS, CSRF etc.
+
+[[gh]](https://github.com/minhajme/ivrworks)
+
+- _(2016-2017) Healthcare Project (Hybrid-Remote/Site):_ Health insurance plan enrollment portal feature development and bugfix maintenance. A Python/ **Django** and JQuery based portal with **PostgreSQL** database and **Sentry** hooks. Had some utility API with Python/ **Flask**. Converted the portal key marketing pages into google **AMP**. Deployment was **Git** based but no github actions CI/CD, had plans though. Maintained the **Linux** VPS. Having a clear picture of the importance of security, and enjoyed the idea of partnering with the whole engineering and compliance team to ensure the integrity of the customer's data.
+
+- _(2015) Ebay Orders and Inventory Portal:_ Ebay-API and Etsy-API implemented order management portals. Underlying PHP based framework was developed forked from OpenCart. Experienced in VCS like both Git and Mercurial (obscured). [[gh]](https://github.com/minhajme/synclist-php)
+
+- (2015) **Socket** mimicking auto polling JS/AJAX library. Got proficient with software configuration management tools (GIT). [[gh]](https://github.com/minhajme/publicarchive/tree/master/fnajax)
+- (2014 - 2015) Worked with the PHP **Symfony** framework and **Silex** microframework.
+- (2014) Trial project with **DRF** (Django Rest Framework) and **FastAPI**.
+- (2013) Developed **CRM** modules for an IIG company.
+- (2012) Worked with Interspire Email Marketer and **Amazon SES** SMTP integration.
+- (2012) Worked as Linux **SysAdmin** for a small VPS hosting company. Worked with Exim and **Postfix SMTP**.
+
+- AI: **Bayesian Network** under-development. [[gh]](https://github.com/minhajme/CS50AI)
+- **Golang** practice project.
+- Leetcode **Java** tests. CodeSignal tests for ReactJS, NodeJS. [[gh]](https://github.com/minhajme/leetcode)
+- LibPostal integration for address **normalization** in Ebay packing slip generation. [[forked gh]](https://github.com/minhajme/libpostal)
+- Web portal with **Kotlin** -ktor (demo project). [[gh]](https://github.com/minhajme/publicarchive/tree/master/kotlin-ktor-demo-api)
+- Bikroy.com **scraper**. [[gh]](https://github.com/minhajme/publicarchive/tree/master/bikroy_autofind.quick)
+- Amazon scraper with Python/ **Scrapy/** beautifulsoup4 and PlayWright headless browser.
+- A **unit testing** library(functions) with ES6.
+- Email campaign manager written with PHP to send 5000+ emails per hour in foreground mode and 50,000+/hour in background mode. [[gh]](https://github.com/minhajme/publicarchive/tree/master/sso)
+- PHP microframework. [[gh]](https://github.com/minhajme/publicarchive/tree/master/phpmicro)
+- Scripting: Youtube downloader **shell scripts** (bash). [[gh]](https://github.com/minhajme/publicarchive/tree/master/ytdl)
+- **Nginx** and **Apache** configurations, with Nginx to Django reverse proxy. [[gh]](https://github.com/minhajme/publicarchive/tree/master/nginx_confs)
+
+**Community / FOSS:**
+
+- Linux activism group (Founder). [[fb]](https://web.facebook.com/groups/users.linux.bd)
+
+**Positions:**
+
+- _Jan 2022 - Sep 2022_: 9 mos: Full Time: Technical Lead (Online Payment Gateway):
+  - Technical Lead of ShurjoPay, of [ShurjoMukhi LTD](https://shurjomukhi.com.bd/), Dhaka, Bangladesh.
+
+- _Mar 2017 - Nov 2019:_ 33 mos:Full Time: Two similar positions (DevOps, SysAdmin):
+  - Lead Developer (devops) at [OneIXchange](https://oneixchange.com/) (7 dev startup), Banani, Dhaka, Bangladesh.
+  - Senior Developer (devops) at [MS Concitus](https://goo.gl/maps/Y5P2QKKRMy1nae3q7?coh=178572&entry=tt) (12 dev startup), Dhanmondi, Dhaka, Bangladesh.
+
+- _Mar 2011 - Apr 2023:_ Freelance / Remote / Part-Time (Backend, DevOps, SysAdmin):
+  - 2020 - 2021: Freelance | Freight Systems.
+  - 2011 - 2016: Freelance | Elance / Upwork.
+  - 2011 - 2014: CRM Developer (On-Site Part-Time) at OneAsiaAHL, Dhaka, Bangladesh.
+
+**Education:**
+
+- _(2007 - 2012)_ B.Sc. in Mechanical Engineering (Batch-06): Bangladesh University of Engineering and Technology, Dhaka. Passing year 2021. [[rg]](https://www.researchgate.net/profile/Minhajul-Anwar-2)
+- _(2004 - 2006)_ H.S.C.: Chattogram College, Chattogram, Bangladesh.
+
+
+Check this resume(auth protected): [https://bit.ly/Resume-MinhajulAnwar](https://bit.ly/Resume-MinhajulAnwar)
 
 ### Connect With Me
 - [blog](https://minhajme.github.io/blog/)
