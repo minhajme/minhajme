@@ -19,12 +19,6 @@ Phone: [+8801716734974](tel:+8801716734974)
 
 Github: [https://github.com/minhajme](https://github.com/minhajme)
 
-Address:
-
-Chattogram, Bangladesh: 57/3/C, DC Road, Chawkbazar.
-
-Dhaka, Bangladesh: H-05, Road 2, Block B, Aftabnagar.
-
 **Activities and Experiences:**
 
 - _(2023) Framework / REST API Builder:_ JavaScript/ **ES6** (NodeJS-16-LTS) base, with design pattern enforced. Simplicity, readability, maintainability focused. Implements Provider pattern with request and response hooks, with helper functions coupled view. **Redis** and Excel API for data storage and download. Includes token bucket algorithm implemented APIrate limiting, **ReactJS** components like MaterialUI mui-datagrid, SheetJS. Includes a test application that uses financials API passthrough relay. JS **Async** API utilized. **Unit test** ed with its own testing library and PlayWright (node), a **headless** browser like Selenium. Deploy planned with **Docker**. Redux for next version state management and **TypeScript** ports planned. [[gh]](https://github.com/minhajme/api)
