@@ -79,7 +79,8 @@ Github: [https://github.com/minhajme](https://github.com/minhajme)
 - _(2004 - 2006)_ H.S.C.: Chattogram College, Chattogram, Bangladesh.
 
 
-Check this resume(auth protected): [https://bit.ly/Resume-MinhajulAnwar](https://bit.ly/Resume-MinhajulAnwar)
+### Check Resume
+**(auth protected) [https://bit.ly/Resume-MinhajulAnwar](https://bit.ly/Resume-MinhajulAnwar)**
 
 ### Connect With Me
 - [blog](https://minhajme.github.io/blog/)
