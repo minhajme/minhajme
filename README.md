@@ -19,13 +19,13 @@ Github: [https://github.com/minhajme](https://github.com/minhajme)
 
 **Activities and Experiences:**
 
-- _(2023) Framework / REST API Builder:_ JavaScript/ **ES6** (NodeJS-16-LTS) base, with design pattern enforced. Simplicity, readability, maintainability focused. Implements Provider pattern with request and response hooks, with helper functions coupled view. **Redis** and Excel API for data storage and download. Includes token bucket algorithm implemented APIrate limiting, **ReactJS** components like MaterialUI mui-datagrid, SheetJS. Includes a test application that uses financials API passthrough relay. JS **Async** API utilized. **Unit test** ed with its own testing library and PlayWright (node), a **headless** browser like Selenium. Deploy planned with **Docker**. Redux for next version state management and **TypeScript** ports planned. [[gh]](https://github.com/minhajme/api)
+- _(2023) Framework / REST API Builder:_ JavaScript/ **ES6** (NodeJS-16-LTS) base, SOLID design pattern enforced. **Redis** and Excel API for data storage and download. Includes token bucket algorithm implemented API-rate limiting, **ReactJS** components like MaterialUI mui-datagrid, SheetJS. Includes a test application that uses financials API passthrough relay. JS **Async** API utilized. **Unit test** ed with its own testing library and PlayWright (node), a **headless** browser like Selenium. Deploy planned with **Docker**. Redux for next version state management and **TypeScript** ports planned. [[gh]](https://github.com/minhajme/api)
 
 - _(2022) Technical Lead of an Online Payment Gateway:_ At ShurjoPay, an online **payment gateway engine** , contributed to all phases of the development lifecycle. Worked towards turning a mediocre payment engine into a highly available, fault-tolerant, observable, performant, secure, and scalable payment gateway as shurjoPay had an early PSO license (replaced by CTO later). Audited some JavaScript/ES6 Python/ Django and vanilla PHP codes along with Laravel9 based admin portal. [[gh(shared dev)]](https://github.com/smukhidev?tab=repositories)[[gh]](https://github.com/minhajme/publicarchive/tree/master/shurjopaynode)
 
 - _(2018-2021) Freight forwarding process automation:_ app with Python/ **Django** , **ReactJS** , **PostgreSQL** database. Deployment was a Git based simpler workflow. Able to automate BL(Bill of Lading), AWB(AirWayBill), Delivery Order, Shipping Advice, Cargo Manifest, CFS Report, Job Costing. Navana Logistics Limited was a development partner. Planned for a **NoSQL** approach with **ElasticSearch** based caching system. Tried **GraphQL** implementation possibility for a small time span. Had a plan for building/deploying/managing AWS or GCP at an enterprise-level, time constraint and project swatching caused deferring. [[gh]](https://github.com/minhajme/freightforward)
 
-- _(2018) IVR:_ Management and call forwarding portal for a healthcare call-center. Written with Python/ **Django** and JQuery with **PostgreSQL** database. Voice transmission done with **Twilio** API. Wrote job scheduler with **Celery** , **Redis**. Tested with **Selenium**. Deployment with DOKKU, a **Docker** wrapper for container orchestration. Had visions for microservices swarm with Kubernetes. Also planned to integrate with **Asterisk** and a job server with **Golang** , and some modules **NodeJS** porting if resources were available. Also dealt with excellent customer service attitude for the Investor (Adam Awany), communication skills (written and verbal), and interpersonal skills. Had understanding and practical experience in software development life cycles ( **SDLC** , both Agile and Scrum) due to working as part of a distributed team. The app also includes a stress testing library with the remote api and mass call firing simulation. This was done by writing virtual call forwarded users and stripped response only voice API servers for Tropo and Twilio. This resulted in experience with containers, networking, database, message queueing ( **RabbitMQ** ), load balancing (Nginx), distributed systems (pg nodes), auto-scaling, SSL protocols, data encryption, XSS, CSRF etc.
+- _(2018) IVR:_ Management and call forwarding portal for a healthcare call-center. Written with Python/ **Django** and JQuery with **PostgreSQL** database. Voice transmission done with **Twilio** API. Wrote job scheduler with **Celery** , **Redis**. Tested with **Selenium**. Deployment with DOKKU, a **Docker** wrapper for container orchestration. Had visions for microservices swarm with Kubernetes. Also planned to integrate with **Asterisk** and a job server with **Golang** , and some modules **NodeJS** porting if resources were available. Includes sideworks in message queueing ( **RabbitMQ** ), load balancing (Nginx), db admin (pg maintenance)SSL protocols, XSS, CSRF etc.
 
 [[gh]](https://github.com/minhajme/ivrworks)
 
@@ -73,11 +73,11 @@ Github: [https://github.com/minhajme](https://github.com/minhajme)
 
 **Education:**
 
-- _(2007 - 2012)_ B.Sc. in Mechanical Engineering (Batch-06): Bangladesh University of Engineering and Technology, Dhaka. Passing year 2021. [[rg]](https://www.researchgate.net/profile/Minhajul-Anwar-2)
+- _(2007 - 2012)_ B.Sc. in Mechanical Engineering (Batch-2006): Bangladesh University of Engineering and Technology, Dhaka. [[rg]](https://www.researchgate.net/profile/Minhajul-Anwar-2)
 - _(2004 - 2006)_ H.S.C.: Chattogram College, Chattogram, Bangladesh.
 
 
-### Check Resume
+### Check Full Resume
 **(auth protected) [https://bit.ly/Resume-MinhajulAnwar](https://bit.ly/Resume-MinhajulAnwar)**
 
 ### Connect With Me
