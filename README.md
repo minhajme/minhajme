@@ -59,20 +59,6 @@ Github: [https://github.com/minhajme](https://github.com/minhajme)
 
 - Linux activism group (Founder). [[fb]](https://web.facebook.com/groups/users.linux.bd)
 
-**Positions:**
-
-- _Jan 2022 - Sep 2022_: 9 mos: Full Time: Technical Lead (Online Payment Gateway):
-  - Technical Lead of ShurjoPay, of [ShurjoMukhi LTD](https://shurjomukhi.com.bd/), Dhaka, Bangladesh.
-
-- _Mar 2017 - Nov 2019:_ 33 mos:Full Time: Two similar positions (DevOps, SysAdmin):
-  - Lead Developer (devops) at [OneIXchange](https://oneixchange.com/) (7 dev startup), Banani, Dhaka, Bangladesh.
-  - Senior Developer (devops) at [MS Concitus](https://goo.gl/maps/Y5P2QKKRMy1nae3q7?coh=178572&entry=tt) (12 dev startup), Dhanmondi, Dhaka, Bangladesh.
-
-- _Mar 2011 - Apr 2023:_ Freelance / Remote / Part-Time (Backend, DevOps, SysAdmin):
-  - 2020 - 2021: Freelance | Freight Systems.
-  - 2011 - 2016: Freelance | Elance / Upwork.
-  - 2011 - 2014: CRM Developer (On-Site Part-Time) at OneAsiaAHL, Dhaka, Bangladesh.
-
 **Education:**
 
 - _(2007 - 2012)_ B.Sc. in Mechanical Engineering (Batch-2006): Bangladesh University of Engineering and Technology, Dhaka. [[rg]](https://www.researchgate.net/profile/Minhajul-Anwar-2)
