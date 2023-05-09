@@ -3,6 +3,10 @@
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
+### Check Full Resume
+**(auth protected) [https://bit.ly/Resume-MinhajulAnwar](https://bit.ly/Resume-MinhajulAnwar)**
+
+
 # **Minhajul Anwar**
 
 _Backend, DevOps_
@@ -74,9 +78,6 @@ Github: [https://github.com/minhajme](https://github.com/minhajme)
 - _(2007 - 2012)_ B.Sc. in Mechanical Engineering (Batch-2006): Bangladesh University of Engineering and Technology, Dhaka. [[rg]](https://www.researchgate.net/profile/Minhajul-Anwar-2)
 - _(2004 - 2006)_ H.S.C.: Chattogram College, Chattogram, Bangladesh.
 
-
-### Check Full Resume
-**(auth protected) [https://bit.ly/Resume-MinhajulAnwar](https://bit.ly/Resume-MinhajulAnwar)**
 
 ### Connect With Me
 - [blog](https://minhajme.github.io/blog/)
