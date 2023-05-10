@@ -3,9 +3,6 @@
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
 
-### Check Full Resume
-**(auth protected) [https://bit.ly/Resume-MinhajulAnwar](https://bit.ly/Resume-MinhajulAnwar)**
-
 
 # **Minhajul Anwar**
 
