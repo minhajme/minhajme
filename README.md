@@ -1,4 +1,5 @@
 <!--<p align="center"> بسم الله الرحمن الرحيم </p>-->
+<!--<p align="center">In the name of Allah, the most gracious, the most merciful.</p>-->
 
 <!-- [![Website](https://img.shields.io/badge/Resgef%20Labs-www.resgef.com-orange)](www.resgef.com) -->
 [![Send Email](https://img.shields.io/badge/-Send%20Email-lightgrey?logo=gmail)](mailto:minhaj.me.bd@gmail.com)
@@ -82,3 +83,6 @@ Github: [https://github.com/minhajme](https://github.com/minhajme)
 - [quora](https://www.quora.com/profile/Minhajul-Anwar)
 - [medium](https://medium.com/@minhajme)
 - [researchgate](https://www.researchgate.net/profile/Minhajul-Anwar-2)
+
+
+<!--<p align="center">science is what I tamed, technology is my slave.</p>-->
